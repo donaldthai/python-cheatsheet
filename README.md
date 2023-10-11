@@ -109,7 +109,7 @@ Counter({'blue': 3, 'red': 2, 'yellow': 1})
 Set
 ---
 ```python
-<set> = set()                                   # `{}` returns a dictionary.
+<set> = set()                                   # `{}` returns a set.
 ```
 
 ```python
